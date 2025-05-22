@@ -1,2 +1,3 @@
 # dataAnalysis
-Data in Jupyter
+Data  analysis using Jupyter notebook
+
