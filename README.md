@@ -1,3 +1,3 @@
 # dataAnalysis
-Data  analysis using Jupyter notebook
+Data  analysis using Jupyter notebook, pandas
 
